@@ -5,8 +5,7 @@ This is demo for markdown
 * It s easy
 
 ## Example
-
-[codetime](https://www.codetime.io)
+[codetime] (https://www.codetime.io)
 
 1. Item 1
 2. Item 2
